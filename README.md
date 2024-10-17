@@ -3,6 +3,9 @@
 ## Introduction
 Movie Store is a web-based platform designed to provide a modern and intuitive interface for film enthusiasts to discover, explore, and appreciate a variety of cinematic content. Developed as part of a mini-project at the International Institute of Technology in Sfax, Tunisia, this application aims to centralize the film browsing experience and streamline content management.
 
+**[Click here to view the full PDF of the project.]([https://raw.githubusercontent.com/Ahmedhabaib/Setting-up-a-security-system/a7b254fac92aa9014936991c06e4a02143b3c5ac/Mise%20en%20place%20d%E2%80%99un%20syst%C3%A9me%20de%20s%C3%A9curit%C3%A9.pdf](https://raw.githubusercontent.com/Ahmedhabaib/MovieStore/a6e05fe1323c691d50df5d310fd0999349e35388/report.pdf))**
+
+
 ## Project Details
 - **Developers**: HABAIB Ahmed, MASMOUDI Fares
 - **Supervisor**: Fahmi KALLEL
