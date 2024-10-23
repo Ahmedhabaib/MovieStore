@@ -53,17 +53,6 @@ The project follows a standard MVC architecture with the following key component
    - MovieController
    - UserController
 
-## Database Schema
-The database consists of tables for Movies, Genres, and Users, with appropriate relationships between them.
-
-## Getting Started
-(Instructions for setting up the project locally would go here)
-
-## Contributing
-This project was developed as part of an academic mini-project. For any inquiries or potential contributions, please contact the project developers.
-
-## License
-(Information about the project's license would go here)
 
 ## Acknowledgments
 Special thanks to Mr. Fahmi KALLEL for supervising this project and to the Institut International de Technologie Sfax for providing the platform for this educational experience.
